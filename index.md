@@ -12,9 +12,9 @@ I am eager to explore the field of Machine Learning and interested in combining 
 
 ## Blogs
 [Machine Learning | Note No.1](https://mp.weixin.qq.com/s/yA5Qy3ZQ9Xg3SjcjMmwdlg)
-
+aaaa
 [Machine Learning | Note No.2](https://mp.weixin.qq.com/s/RmlB3Q7hkcW7NlU0nxDR1Q)
-
+aaaa
 [Machine Learning | Note No.3](https://mp.weixin.qq.com/s/cJVh-5ZWgeTNc_lOst_WhA)
-
+aaaa
 [Machine Learning | Note No.4](https://mp.weixin.qq.com/s/tRgVHPkBALCeQPIJlYB0Bg)
