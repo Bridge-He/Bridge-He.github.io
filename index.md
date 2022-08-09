@@ -1,4 +1,4 @@
-# Yuqiao(Bridge) He
+# **Yuqiao(Bridge) He**
 
 ![54737565d27383a9b2cca10adb8b54c](https://user-images.githubusercontent.com/110859502/183577532-f60432ea-84f6-4c61-9b4f-bce7a49daa62.jpg)
 
@@ -21,3 +21,5 @@ I am eager to explore the field of Machine Learning and interested in combining 
 
 
 [Machine Learning | Note No.4](https://mp.weixin.qq.com/s/tRgVHPkBALCeQPIJlYB0Bg)
+
+[Machine Learning: Note No.1](https://mp.weixin.qq.com/s/yA5Qy3ZQ9Xg3SjcjMmwdlg)
