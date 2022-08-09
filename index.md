@@ -21,5 +21,3 @@ I am eager to explore the field of Machine Learning and interested in combining 
 
 
 [Machine Learning | Note No.4](https://mp.weixin.qq.com/s/tRgVHPkBALCeQPIJlYB0Bg)
-
-
