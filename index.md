@@ -3,8 +3,10 @@
 <img src="https://user-images.githubusercontent.com/110859502/183577532-f60432ea-84f6-4c61-9b4f-bce7a49daa62.jpg" width = "512" height = "405" div align=center />
 
 ## About me
-I am Yuqiao(Bridge) He, a junior in Tsinghua University, Beijing, China, majoring in Economics and Finance, minoring in Statistics.  
-I am eager to explore the field of Machine Learning and interested in combining computer programming skills with economic and financial knowledges. 
+_I am Yuqiao (Bridge) He, a junior in Tsinghua University, Beijing, China.  
+Majoring in Economics and Finance, minoring in Statistics.  
+Eager to explore the field of Machine Learning.  
+Interested in combining computer programming skills with economic and financial knowledges._
 
 ## My CV
 [CV_BridgeHe.pdf](https://github.com/Bridge-He/Bridge-He.github.io/files/9287393/CV_BridgeHe.pdf)
