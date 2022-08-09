@@ -1,4 +1,4 @@
-# **Yuqiao(Bridge) He**
+# _Yuqiao(Bridge) He_
 
 <img src="https://user-images.githubusercontent.com/110859502/183577532-f60432ea-84f6-4c61-9b4f-bce7a49daa62.jpg" width = "512" height = "405" div align=center />
 
