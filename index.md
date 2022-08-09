@@ -1,6 +1,6 @@
 # Yuqiao(Bridge) He
 
-![e542ca55399a100e9f409a50f0a22a6](https://user-images.githubusercontent.com/110859502/183576694-a9fb6b0b-4eb1-493f-a84f-d395b2141c8c.jpg)
+![e542ca55399a100e9f409a50f0a22a6](https://user-images.githubusercontent.com/110859502/183577244-00ef11cf-f7e5-4eb2-bf30-a7929f5dfbe6.jpg)
 
 ## About me
 I am Yuqiao(Bridge) He, a junior in Tsinghua University, Beijing, China, majoring in Economics and Finance, minoring in Statistics. 
