@@ -9,7 +9,7 @@ I am eager to explore the field of Machine Learning and interested in combining 
 )
 
 ## Blogs
-[Link](https://mp.weixin.qq.com/s/yA5Qy3ZQ9Xg3SjcjMmwdlg)
-[Link](https://mp.weixin.qq.com/s/RmlB3Q7hkcW7NlU0nxDR1Q)
-[Link](https://mp.weixin.qq.com/s/cJVh-5ZWgeTNc_lOst_WhA)
-[Link](https://mp.weixin.qq.com/s/tRgVHPkBALCeQPIJlYB0Bg)
+[Link](https://mp.weixin.qq.com/s/yA5Qy3ZQ9Xg3SjcjMmwdlg)\n
+[Link](https://mp.weixin.qq.com/s/RmlB3Q7hkcW7NlU0nxDR1Q)\n
+[Link](https://mp.weixin.qq.com/s/cJVh-5ZWgeTNc_lOst_WhA)\n
+[Link](https://mp.weixin.qq.com/s/tRgVHPkBALCeQPIJlYB0Bg)\n
