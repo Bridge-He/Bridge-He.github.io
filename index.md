@@ -26,7 +26,7 @@ _(**Note:** If you contact me through Ins or Wechat, please explain your purpose
 [Machine Learning | Note No.5](https://mp.weixin.qq.com/s/GKD0GJru9SZr-NtZxXavNQ)  
 [Machine Learning | Note No.6](https://mp.weixin.qq.com/s/S37mMlYToWmVM6qj9KURmw)  
 [Machine Learning | Neural Network: Proof of Backpropagation](https://github.com/Bridge-He/Bridge-He.github.io/files/9294429/ML_ANN_Backpropagation.pdf)  
-[Machine Learning | Support Vector Machine: Basic SVM Theory and SVM with Kernel](https://github.com/Bridge-He/Bridge-He.github.io/files/9294429/ML_ANN_Backpropagation.pdf)
+[Machine Learning | Support Vector Machine: Basic SVM Theory and SVM with Kernel](https://github.com/Bridge-He/Bridge-He.github.io/files/9334778/ML_SVM_kernel.pdf)
 ### Programming
 [A Toy C Game Project | Curse War](https://github.com/Bridge-He/Bridge-He.github.io/files/9294405/CurseWar_BridgeHe.zip)
 ### Economics
