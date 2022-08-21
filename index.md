@@ -32,7 +32,7 @@ _(**Note:** If you contact me through Ins or Wechat, please explain your purpose
 [Machine Learning | Support Vector Machine: Basic SVM Theory and SVM with Kernel](https://github.com/Bridge-He/Bridge-He.github.io/files/9334778/ML_SVM_kernel.pdf)  
 [Machine Learning | Clustering: The Principle of K-means Algorithm](https://github.com/Bridge-He/Bridge-He.github.io/files/9385449/ML_Clustering_Kmeans.pdf)
 ### Mathematical Foundations
-[Linear Algebra | Projection](https://github.com/Bridge-He/Bridge-He.github.io/files/9390041/Linear.Algebra_Projection.pdf)
+[Linear Algebra | Projection](https://github.com/Bridge-He/Bridge-He.github.io/files/9390169/Linear.Algebra_Projection.pdf)
 ### Programming
 [A Toy C Game Project | Curse War](https://github.com/Bridge-He/Bridge-He.github.io/files/9294405/CurseWar_BridgeHe.zip)
 ### Economics
