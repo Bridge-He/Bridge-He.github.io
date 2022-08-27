@@ -39,3 +39,5 @@ _(**Note:** If you contact me through Ins or Wechat, please explain your purpose
 [A Toy C Game Project | Curse War](https://github.com/Bridge-He/Bridge-He.github.io/files/9294405/CurseWar_BridgeHe.zip)
 ### Economics
 [Intermediate Microeconomics Course Essay: Analysis of Students’ Health Overdraft Phenomenon](https://github.com/Bridge-He/Bridge-He.github.io/files/9294598/Analysis.of.Students.Health.Overdraft.Phenomenon.pdf)
+### Skills
+[LaTex | Basic Operation](https://github.com/Bridge-He/Bridge-He.github.io/files/9438649/LaTex.Basic.Operation.pdf)
