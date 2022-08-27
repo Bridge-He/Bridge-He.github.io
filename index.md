@@ -3,16 +3,13 @@
 <img src="https://user-images.githubusercontent.com/110859502/183577532-f60432ea-84f6-4c61-9b4f-bce7a49daa62.jpg" width = "512" height = "405" div align=center />
 
 ## About me
-_I am Yuqiao (Bridge) He, a junior in Tsinghua University, Beijing, China.  
+_I am Yuqiao (Bridge) He, a junior in Tsinghua University, Beijing, China. Now exchange in UC Berkeley.  
 Majoring in Economics and Finance, minoring in Statistics.  
 Eager to explore the field of Machine Learning.  
-Interested in combining computer programming skills with economic and financial knowledges._
+Interested in using statistical learning methods to address economic and financial problems._
 
 ## Contact me
-**E-Mail:** heyuqiao2020@gmail.com | he-yq20@mails.tsinghua.edu.cn  
-**Instagram:** hyqbridge  
-**Wechat:** HyqBridge  
-_(**Note:** If you contact me through Ins or Wechat, please explain your purpose, otherwise the friend request may not be accepted. )_
+**E-Mail:** heyuqiao2020@gmail.com | he-yq20@mails.tsinghua.edu.cn
 
 ## My CV
 [CV_BridgeHe.pdf](https://github.com/Bridge-He/Bridge-He.github.io/files/9287393/CV_BridgeHe.pdf)
