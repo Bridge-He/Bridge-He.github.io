@@ -19,15 +19,6 @@ _(**Note:** If you contact me through Ins or Wechat, please explain your purpose
 
 ## Blogs  
 ### Machine Learning
-[Machine Learning | Note No.1](https://mp.weixin.qq.com/s/yA5Qy3ZQ9Xg3SjcjMmwdlg)  
-[Machine Learning | Note No.2](https://mp.weixin.qq.com/s/RmlB3Q7hkcW7NlU0nxDR1Q)  
-[Machine Learning | Note No.3](https://mp.weixin.qq.com/s/cJVh-5ZWgeTNc_lOst_WhA)  
-[Machine Learning | Note No.4](https://mp.weixin.qq.com/s/tRgVHPkBALCeQPIJlYB0Bg)  
-[Machine Learning | Note No.5](https://mp.weixin.qq.com/s/GKD0GJru9SZr-NtZxXavNQ)  
-[Machine Learning | Note No.6](https://mp.weixin.qq.com/s/S37mMlYToWmVM6qj9KURmw)  
-[Machine Learning | Note No.7](https://mp.weixin.qq.com/s/NVv_tEW2Wf79Yc3pDt3DPg)  
-[Machine Learning | Note No.8](https://mp.weixin.qq.com/s/6TLUqQAxVmoB0OA-2m2UFQ)  
-[Machine Learning | Note No.9](https://mp.weixin.qq.com/s/r6IAiv7Jh7UH5dhqHuxOsQ)  
 [Machine Learning | Neural Network: Proof of Backpropagation](https://github.com/Bridge-He/Bridge-He.github.io/files/9294429/ML_ANN_Backpropagation.pdf)  
 [Machine Learning | Neural Network: Code Implementation](https://github.com/Bridge-He/Bridge-He.github.io/files/9388593/ML_ANN_Project_CodeImplementation.pdf)  
 [Machine Learning | Support Vector Machine: Basic SVM Theory and SVM with Kernel](https://github.com/Bridge-He/Bridge-He.github.io/files/9334778/ML_SVM_kernel.pdf)  
@@ -41,3 +32,14 @@ _(**Note:** If you contact me through Ins or Wechat, please explain your purpose
 [Intermediate Microeconomics Course Essay: Analysis of Students’ Health Overdraft Phenomenon](https://github.com/Bridge-He/Bridge-He.github.io/files/9294598/Analysis.of.Students.Health.Overdraft.Phenomenon.pdf)
 ### Skills
 [LaTex | Basic Operation](https://github.com/Bridge-He/Bridge-He.github.io/files/9438649/LaTex.Basic.Operation.pdf)
+### My Learning Record
+[Learning Record No.1](https://mp.weixin.qq.com/s/yA5Qy3ZQ9Xg3SjcjMmwdlg)  
+[Learning Record No.2](https://mp.weixin.qq.com/s/RmlB3Q7hkcW7NlU0nxDR1Q)  
+[Learning Record No.3](https://mp.weixin.qq.com/s/cJVh-5ZWgeTNc_lOst_WhA)  
+[Learning Record No.4](https://mp.weixin.qq.com/s/tRgVHPkBALCeQPIJlYB0Bg)  
+[Learning Record No.5](https://mp.weixin.qq.com/s/GKD0GJru9SZr-NtZxXavNQ)  
+[Learning Record No.6](https://mp.weixin.qq.com/s/S37mMlYToWmVM6qj9KURmw)  
+[Learning Record No.7](https://mp.weixin.qq.com/s/NVv_tEW2Wf79Yc3pDt3DPg)  
+[Learning Record No.8](https://mp.weixin.qq.com/s/6TLUqQAxVmoB0OA-2m2UFQ)  
+[Learning Record No.9](https://mp.weixin.qq.com/s/r6IAiv7Jh7UH5dhqHuxOsQ)  
+[Learning Record No.10](https://mp.weixin.qq.com/s/c-6Sy3xsVLOHS01nn0al1Q)
