@@ -25,6 +25,8 @@ Interested in using statistical learning methods to address economic and financi
 [Linear Algebra & Calculus | Basic Rules of Matrix Derivative](https://github.com/Bridge-He/Bridge-He.github.io/files/9437682/Matrix.Derivative.pdf)
 ### Programming
 [A Toy C Game Project | Curse War](https://github.com/Bridge-He/Bridge-He.github.io/files/9294405/CurseWar_BridgeHe.zip)
+### Econometrics
+[Econometrics | Time Series Analysis](https://github.com/Bridge-He/Bridge-He.github.io/files/9458066/Econometrics_Time.Series.Analysis.pdf)
 ### Economics
 [Intermediate Microeconomics Course Essay: Analysis of Students’ Health Overdraft Phenomenon](https://github.com/Bridge-He/Bridge-He.github.io/files/9294598/Analysis.of.Students.Health.Overdraft.Phenomenon.pdf)
 ### Skills
