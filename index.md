@@ -16,6 +16,7 @@ Interested in using statistical learning methods to address economic and financi
 
 ## Blogs  
 ### Machine Learning
+[Machine Learning | Logistic Regression: Derivation and Optimization](https://github.com/Bridge-He/Bridge-He.github.io/files/9571582/Logistic.Regression_Derivation.and.Optimization.pdf)  
 [Machine Learning | Neural Network: Proof of Backpropagation](https://github.com/Bridge-He/Bridge-He.github.io/files/9294429/ML_ANN_Backpropagation.pdf)  
 [Machine Learning | Neural Network: Code Implementation](https://github.com/Bridge-He/Bridge-He.github.io/files/9388593/ML_ANN_Project_CodeImplementation.pdf)  
 [Machine Learning | Support Vector Machine: Basic SVM Theory and SVM with Kernel](https://github.com/Bridge-He/Bridge-He.github.io/files/9334778/ML_SVM_kernel.pdf)  
