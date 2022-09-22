@@ -43,3 +43,9 @@ Interested in using statistical learning methods to address economic and financi
 [Learning Record No.8](https://mp.weixin.qq.com/s/6TLUqQAxVmoB0OA-2m2UFQ)  
 [Learning Record No.9](https://mp.weixin.qq.com/s/r6IAiv7Jh7UH5dhqHuxOsQ)  
 [Learning Record No.10](https://mp.weixin.qq.com/s/c-6Sy3xsVLOHS01nn0al1Q)
+### Learning Resources | Berkeley CS189: Introduction to Machine Learning
+[[HW0]](https://github.com/Bridge-He/Bridge-He.github.io/files/9622130/hw0.pdf)[[Solution]](https://github.com/Bridge-He/Bridge-He.github.io/files/9622131/Berkeley_CS189_HW0_Solution.pdf)[[data]](https://github.com/Bridge-He/Bridge-He.github.io/files/9622132/hw0-data.zip)  
+[[HW1]](https://github.com/Bridge-He/Bridge-He.github.io/files/9622158/hw1.pdf)[[Solution]](https://github.com/Bridge-He/Bridge-He.github.io/files/9622143/Berkeley_CS189_HW1_Solution.pdf)[[data]](https://github.com/Bridge-He/Bridge-He.github.io/files/9622147/hw1-data.zip)
+### Learning Resources | Berkeley ECON240A: Econmetrics
+[Problem Set 1 & Solution](https://github.com/Bridge-He/Bridge-He.github.io/files/9622171/Berkeley_ECON240A_Probset1_Solution.pdf)  
+[Problem Set 2 & Solution](https://github.com/Bridge-He/Bridge-He.github.io/files/9622172/Berkeley_ECON240A_Probset2_solution.pdf)
