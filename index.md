@@ -8,6 +8,9 @@ Majoring in Economics and Finance, minoring in Statistics.
 Eager to explore the field of Machine Learning.  
 Interested in using statistical learning methods to address economic and financial problems._
 
+## About the website
+I share with everyone my learning materials and records, aiming to both encourage myself to explore further and deeper and hope to help someone in need. Welcome discussion about the materials and correction of my mistakes. 
+
 ## Contact me
 **E-Mail:** heyuqiao2020@gmail.com | he-yq20@mails.tsinghua.edu.cn
 
