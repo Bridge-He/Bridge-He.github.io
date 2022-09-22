@@ -15,7 +15,7 @@ I share with everyone my learning materials and records, aiming to both encourag
 **E-Mail:** heyuqiao2020@gmail.com | he-yq20@mails.tsinghua.edu.cn
 
 ## My CV
-[CV_BridgeHe.pdf](https://github.com/Bridge-He/Bridge-He.github.io/files/9287393/CV_BridgeHe.pdf)
+[CV_BridgeHe.pdf](https://github.com/Bridge-He/Bridge-He.github.io/files/9622205/CV_BridgeHe.pdf)
 
 ## Blogs  
 ### Machine Learning
@@ -34,7 +34,7 @@ I share with everyone my learning materials and records, aiming to both encourag
 ### Economics
 [Intermediate Microeconomics Course Essay: Analysis of Students’ Health Overdraft Phenomenon](https://github.com/Bridge-He/Bridge-He.github.io/files/9294598/Analysis.of.Students.Health.Overdraft.Phenomenon.pdf)
 ### Skills
-[LaTex | Basic Operation](https://github.com/Bridge-He/Bridge-He.github.io/files/9438649/LaTex.Basic.Operation.pdf)
+[LaTeX | Basic Operations](https://github.com/Bridge-He/Bridge-He.github.io/files/9438649/LaTex.Basic.Operation.pdf)
 ### My Learning Record
 [Learning Record No.1](https://mp.weixin.qq.com/s/yA5Qy3ZQ9Xg3SjcjMmwdlg)  
 [Learning Record No.2](https://mp.weixin.qq.com/s/RmlB3Q7hkcW7NlU0nxDR1Q)  
