@@ -19,7 +19,12 @@ I share with everyone my learning materials and records, aiming to both encourag
 
 ## Blogs  
 ### Machine Learning
+[Machine Learning | Maximum Likelihood Estimation](https://github.com/Bridge-He/Bridge-He.github.io/files/9722078/Maximum.Likelihood.Estimation.pdf)  
+[Machine Learning | Norms](https://github.com/Bridge-He/Bridge-He.github.io/files/9722079/Norms.pdf)  
+[Machine Learning | Ridge Regression](https://github.com/Bridge-He/Bridge-He.github.io/files/9722080/Ridge.Rregression.pdf)  
+[Machine Learning | LASSO Regression](https://github.com/Bridge-He/Bridge-He.github.io/files/9722081/LASSO.Regression.pdf)  
 [Machine Learning | Logistic Regression: Derivation and Optimization](https://github.com/Bridge-He/Bridge-He.github.io/files/9579233/Logistic.Regression_Derivation.and.optimization.pdf)  
+[Machine Learning | Neural Networks](https://github.com/Bridge-He/Bridge-He.github.io/files/9722083/Neural.Networks.pdf)
 [Machine Learning | Neural Network: Proof of Backpropagation](https://github.com/Bridge-He/Bridge-He.github.io/files/9294429/ML_ANN_Backpropagation.pdf)  
 [Machine Learning | Neural Network: Code Implementation](https://github.com/Bridge-He/Bridge-He.github.io/files/9388593/ML_ANN_Project_CodeImplementation.pdf)  
 [Machine Learning | Support Vector Machine: Basic SVM Theory and SVM with Kernel](https://github.com/Bridge-He/Bridge-He.github.io/files/9334778/ML_SVM_kernel.pdf)  
