@@ -31,6 +31,7 @@ I share with everyone my learning materials and records, aiming to both encourag
 [Machine Learning | Clustering: The Principle of K-means Algorithm](https://github.com/Bridge-He/Bridge-He.github.io/files/9385449/ML_Clustering_Kmeans.pdf)
 ### Mathematical Foundations
 [Linear Algebra | Projection](https://github.com/Bridge-He/Bridge-He.github.io/files/9390169/Linear.Algebra_Projection.pdf)  
+[Linear Algebra | Singular Value Decomposition](https://github.com/Bridge-He/Bridge-He.github.io/files/9732023/Singular.Value.Decomposition.pdf)  
 [Linear Algebra & Calculus | Basic Rules of Matrix Calculus](https://github.com/Bridge-He/Bridge-He.github.io/files/9437682/Matrix.Derivative.pdf)
 ### Programming
 [A Toy C Game Project | Curse War](https://github.com/Bridge-He/Bridge-He.github.io/files/9294405/CurseWar_BridgeHe.zip)
