@@ -1,6 +1,6 @@
 # _Yuqiao(Bridge) He_
 
-<img src="https://user-images.githubusercontent.com/110859502/183577532-f60432ea-84f6-4c61-9b4f-bce7a49daa62.jpg" width = "512" height = "405" div align=center />
+<img src="https://user-images.githubusercontent.com/110859502/194668910-9295bc2f-8475-4c63-80f8-f9fbc7dcce28.jpg" width = "228" height = "236" div align=center />
 
 ## About me
 _I am Yuqiao (Bridge) He, a junior in Tsinghua University, Beijing, China. Now exchange in UC Berkeley.  
