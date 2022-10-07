@@ -12,7 +12,8 @@ Interested in using statistical learning methods to address economic and financi
 I share with everyone my learning materials and records, aiming to both encourage myself to explore further and deeper and hope to help someone in need. Welcome discussion about the materials and correction of my mistakes. 
 
 ## Contact me
-**E-Mail:** heyuqiao2020@gmail.com | he-yq20@mails.tsinghua.edu.cn
+**E-Mail:** heyuqiao2020@gmail.com | he-yq20@mails.tsinghua.edu.cn  
+**WeChat Official Account:** Hyq_Bridge_2001 (Subscribe to get my latest update and follow my learning record)
 
 ## My CV
 [CV_BridgeHe.pdf](https://github.com/Bridge-He/Bridge-He.github.io/files/9622205/CV_BridgeHe.pdf)
@@ -33,25 +34,10 @@ I share with everyone my learning materials and records, aiming to both encourag
 [Linear Algebra | Projection](https://github.com/Bridge-He/Bridge-He.github.io/files/9390169/Linear.Algebra_Projection.pdf)  
 [Linear Algebra | Singular Value Decomposition](https://github.com/Bridge-He/Bridge-He.github.io/files/9732023/Singular.Value.Decomposition.pdf)  
 [Linear Algebra & Calculus | Basic Rules of Matrix Calculus](https://github.com/Bridge-He/Bridge-He.github.io/files/9437682/Matrix.Derivative.pdf)
-### Programming
-[A Toy C Game Project | Curse War](https://github.com/Bridge-He/Bridge-He.github.io/files/9294405/CurseWar_BridgeHe.zip)
 ### Econometrics
 [Econometrics | Time Series Analysis](https://github.com/Bridge-He/Bridge-He.github.io/files/9501602/Econometrics_Time.Series.Analysis.pdf)
-### Economics
-[Intermediate Microeconomics Course Essay: Analysis of Students’ Health Overdraft Phenomenon](https://github.com/Bridge-He/Bridge-He.github.io/files/9294598/Analysis.of.Students.Health.Overdraft.Phenomenon.pdf)
-### Skills
+### Tools
 [LaTeX | Basic Operations](https://github.com/Bridge-He/Bridge-He.github.io/files/9438649/LaTex.Basic.Operation.pdf)
-### My Learning Record
-[Learning Record No.1](https://mp.weixin.qq.com/s/yA5Qy3ZQ9Xg3SjcjMmwdlg)  
-[Learning Record No.2](https://mp.weixin.qq.com/s/RmlB3Q7hkcW7NlU0nxDR1Q)  
-[Learning Record No.3](https://mp.weixin.qq.com/s/cJVh-5ZWgeTNc_lOst_WhA)  
-[Learning Record No.4](https://mp.weixin.qq.com/s/tRgVHPkBALCeQPIJlYB0Bg)  
-[Learning Record No.5](https://mp.weixin.qq.com/s/GKD0GJru9SZr-NtZxXavNQ)  
-[Learning Record No.6](https://mp.weixin.qq.com/s/S37mMlYToWmVM6qj9KURmw)  
-[Learning Record No.7](https://mp.weixin.qq.com/s/NVv_tEW2Wf79Yc3pDt3DPg)  
-[Learning Record No.8](https://mp.weixin.qq.com/s/6TLUqQAxVmoB0OA-2m2UFQ)  
-[Learning Record No.9](https://mp.weixin.qq.com/s/r6IAiv7Jh7UH5dhqHuxOsQ)  
-[Learning Record No.10](https://mp.weixin.qq.com/s/c-6Sy3xsVLOHS01nn0al1Q)
 ### Learning Resources | Berkeley CS189: Introduction to Machine Learning
 [Berkeley CS189 | Lecture Notes](https://github.com/Bridge-He/Bridge-He.github.io/files/9722147/CS189_Lecture_Notes.pdf)  
 (This lecture notes is sorted by myself based on my own understandng plus using leture slides, assignments, course resourses and internet resources as references. )   
