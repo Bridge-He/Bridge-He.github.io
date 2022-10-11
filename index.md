@@ -35,6 +35,7 @@ I share with everyone my learning materials and records, aiming to both encourag
 [Linear Algebra | Singular Value Decomposition](https://github.com/Bridge-He/Bridge-He.github.io/files/9732023/Singular.Value.Decomposition.pdf)  
 [Linear Algebra & Calculus | Basic Rules of Matrix Calculus](https://github.com/Bridge-He/Bridge-He.github.io/files/9437682/Matrix.Derivative.pdf)
 ### Econometrics
+[Econometrics | Uniform Minimum Variance Unbiased Estimator](https://github.com/Bridge-He/Bridge-He.github.io/files/9751243/UMVUE.pdf)  
 [Econometrics | Time Series Analysis](https://github.com/Bridge-He/Bridge-He.github.io/files/9501602/Econometrics_Time.Series.Analysis.pdf)
 ### Tools
 [LaTeX | Basic Operations](https://github.com/Bridge-He/Bridge-He.github.io/files/9438649/LaTex.Basic.Operation.pdf)
