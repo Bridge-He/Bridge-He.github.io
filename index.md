@@ -43,8 +43,10 @@ I share with everyone my learning materials and records, aiming to both encourag
 ### Learning Resources | Berkeley CS189: Introduction to Machine Learning
 [Berkeley CS189 | Lecture Notes](https://github.com/Bridge-He/Bridge-He.github.io/files/9722147/CS189_Lecture_Notes.pdf)  
 (This lecture notes is sorted by myself based on my own understandng plus using leture slides, assignments, course resourses and internet resources as references. )   
-[[HW0 Solution]](https://github.com/Bridge-He/Bridge-He.github.io/files/9622131/Berkeley_CS189_HW0_Solution.pdf)[[data]](https://github.com/Bridge-He/Bridge-He.github.io/files/9622132/hw0-data.zip)  
-[[HW1 Solution]](https://github.com/Bridge-He/Bridge-He.github.io/files/9622143/Berkeley_CS189_HW1_Solution.pdf)[[data]](https://github.com/Bridge-He/Bridge-He.github.io/files/9622147/hw1-data.zip)  
+[[HW0 Solution]](https://github.com/Bridge-He/Bridge-He.github.io/files/9622131/Berkeley_CS189_HW0_Solution.pdf)[[Data]](https://github.com/Bridge-He/Bridge-He.github.io/files/9622132/hw0-data.zip)  
+[[HW1 Solution]](https://github.com/Bridge-He/Bridge-He.github.io/files/9622143/Berkeley_CS189_HW1_Solution.pdf)[[Data]](https://github.com/Bridge-He/Bridge-He.github.io/files/9622147/hw1-data.zip)  
+[[HW2 Solution]](https://github.com/Bridge-He/Bridge-He.github.io/files/9780690/Berkeley_CS189_HW2_Solution.pdf)[[Data]](https://github.com/Bridge-He/Bridge-He.github.io/files/9780681/hw2-data.zip)  
+[[HW3 Solution]](https://github.com/Bridge-He/Bridge-He.github.io/files/9780687/Berkeley_CS189_HW3_Solution.pdf)  
 (Homework questions can be found in https://www.eecs189.org. Not shared here due to copyrights. )
 ### Learning Resources | Berkeley ECON240A: Econmetrics
 [Problem Set 1 & Solution](https://github.com/Bridge-He/Bridge-He.github.io/files/9622171/Berkeley_ECON240A_Probset1_Solution.pdf)  
