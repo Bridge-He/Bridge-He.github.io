@@ -29,7 +29,7 @@ I share with everyone my learning materials and records, aiming to both encourag
 [Machine Learning | Neural Network: Proof of Backpropagation](https://github.com/Bridge-He/Bridge-He.github.io/files/9294429/ML_ANN_Backpropagation.pdf)  
 [Machine Learning | Neural Network: Code Implementation](https://github.com/Bridge-He/Bridge-He.github.io/files/9388593/ML_ANN_Project_CodeImplementation.pdf)  
 [Machine Learning | Support Vector Machine: Basic SVM Theory and SVM with Kernel](https://github.com/Bridge-He/Bridge-He.github.io/files/9334778/ML_SVM_kernel.pdf)  
-[Machine Learning | Principal Component Analysis](https://github.com/Bridge-He/Bridge-He.github.io/files/9780668/Principal.Component.Analysis.pdf)  
+[Machine Learning | Principal Component Analysis](https://github.com/Bridge-He/Bridge-He.github.io/files/9781599/Principal.Component.Analysis.pdf)  
 [Machine Learning | Clustering: The Principle of K-means Algorithm](https://github.com/Bridge-He/Bridge-He.github.io/files/9385449/ML_Clustering_Kmeans.pdf)
 ### Mathematical Foundations
 [Linear Algebra | Projection](https://github.com/Bridge-He/Bridge-He.github.io/files/9390169/Linear.Algebra_Projection.pdf)  
